@@ -1,1 +1,1 @@
-printing the absolute path name
+changing the working directory to home directory
