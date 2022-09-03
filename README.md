@@ -1,1 +1,1 @@
-creating directory
+Delete the file betty
