@@ -1,1 +1,1 @@
-Write a script that sets the mode of the file hello
+a script that sets the mode of the file hello the same as olleh’s mode script that sets the mode of the file hello the same as olleh’s mode > READMEa script that sets the mode of the file hello the same as olleh’s mode
