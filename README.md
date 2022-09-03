@@ -1,1 +1,1 @@
-changing the working directory to home directory
+deletes all files in the current working directory that end with the character ~
